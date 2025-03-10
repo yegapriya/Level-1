@@ -124,7 +124,9 @@ input ,textarea{
     border-radius: 8px;
     border-color: #fb00c1;
    }
-
+.sub-but:hover{
+    background-color: #a85b8c;
+}
 
 
 
